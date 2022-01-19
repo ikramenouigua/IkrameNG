@@ -34,6 +34,7 @@ I'm always ready to learn new skills and looking for better opportunities to sta
   </a>
 
 </p>
+
 ## ✨ Design / WireFraming / UI / UX
 
 <p align="left">
@@ -57,6 +58,7 @@ I'm always ready to learn new skills and looking for better opportunities to sta
 	</a>
  
 </p>
+
 ## ✨ Frontend Dev / Frameworks 
 
 <p align="left">
@@ -85,6 +87,7 @@ I'm always ready to learn new skills and looking for better opportunities to sta
   </a>
  
 </p>
+
 ## ✨ Databases
 
 <p align="left">
