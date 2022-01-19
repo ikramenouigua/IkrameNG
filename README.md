@@ -25,7 +25,7 @@ I'm always ready to learn new skills and looking for better opportunities to sta
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
   </a>
- a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
   <a href="https://www.python.org" target="_blank" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
   </a>
@@ -56,7 +56,7 @@ I'm always ready to learn new skills and looking for better opportunities to sta
 		<img width=40px src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="premiere pro icon"/>	
 	</a>
  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-		<img width=40px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/768px-Adobe_After_Effects_CC_icon.sv" alt="premiere pro icon"/>	
+		<img width=40px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/768px-Adobe_After_Effects_CC_icon.svg" alt="premiere pro icon"/>	
 	</a>
 </p>
 ## ✨ Frontend Dev / Frameworks 
