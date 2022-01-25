@@ -53,10 +53,7 @@ I'm always ready to learn new skills and looking for better opportunities to sta
   <!-- <a href="https://sass-lang.com" target="_blank" title=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/>
   </a> -->
  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-<a href="https://www.adobe.com/products/premiere.html" target="_blank">
-		<img width=40px src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="premiere pro icon"/>	
-	</a>
- 
+
 </p>
 
 ## ✨ Video Editing
