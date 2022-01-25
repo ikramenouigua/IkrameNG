@@ -59,6 +59,13 @@ I'm always ready to learn new skills and looking for better opportunities to sta
  
 </p>
 
+## ✨ Video Editing
+<a href="https://www.adobe.com/products/premiere.html" target="_blank">
+		<img width=40px src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="premiere pro icon"/>	
+	</a>
+<a href="https://www.adobe.com/fr/products/aftereffects.html" target="_blank">
+		<img width=40px src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="after effectr icon"/>	
+	</a>
 ## ✨ Frontend Dev / Frameworks 
 
 <p align="left">
@@ -110,7 +117,9 @@ I'm always ready to learn new skills and looking for better opportunities to sta
   </a>
 </p>
 
-
+ <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
+  </a>
 
 <br/>
 
